@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    ya_metric (0.0.1)
+      httparty
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httparty (0.14.0)
+      multi_xml (>= 0.5.2)
+    multi_xml (0.5.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ya_metric!
+
+BUNDLED WITH
+   1.13.6
